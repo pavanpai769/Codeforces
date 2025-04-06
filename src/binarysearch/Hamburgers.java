@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package binarysearch;
+
 import java.util.Scanner;
 
 public class Hamburgers {

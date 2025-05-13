@@ -1,4 +1,4 @@
-package prefixandsuffixsum;
+package prefixandsuffix;
 
 import java.util.Scanner;
 
